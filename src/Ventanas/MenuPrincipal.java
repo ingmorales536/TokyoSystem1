@@ -130,7 +130,7 @@ setIconImage(miIcono);
                 Panel_Ventanas.repaint();
             }
         });
-        //hoola
+        //ho
         BotonCompras.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
